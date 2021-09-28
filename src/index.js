@@ -10,4 +10,3 @@ refs.cardList.insertAdjacentHTML('beforeend', cardListMarkup)
 
 // ПЕРЕКЛЮЧАЕМ ТЕМУ СТРАНИЦЫ
 refs.themeSwitcher.addEventListener('change', onChangeThemeClick)
-l
